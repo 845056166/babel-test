@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 const elements = [1, 2, 3].map((item) => {
     return (
       console.log('9999')
